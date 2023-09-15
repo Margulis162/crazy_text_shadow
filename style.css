@@ -3,7 +3,7 @@ body{
 }
 
 .main{
-    inline-size:300px;
+    inline-size:450px;
     margin-inline: auto;
     
 }
@@ -13,5 +13,5 @@ p{
     color: white;
     font-family: sans-serif;
     letter-spacing: .05em;
-    font-size:5em;
+    font-size:3em;
 }
