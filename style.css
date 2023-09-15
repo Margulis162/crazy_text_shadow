@@ -1,0 +1,17 @@
+body{
+    background-color:grey;
+}
+
+.main{
+    inline-size:300px;
+    margin-inline: auto;
+    
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    letter-spacing: .05em;
+    font-size:5em;
+}
