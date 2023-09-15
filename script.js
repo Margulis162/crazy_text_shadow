@@ -7,5 +7,3 @@ function random(min, max){
     return num;
 }
 // flow
-random( 1, 4);
-console.log(num);
